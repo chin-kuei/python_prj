@@ -1,0 +1,690 @@
+
+首页
+Home
+课程
+Courses
+微专业
+Micro Spec
+院校
+Universities
+注册/ 登录
+
+根据课程名称、学校、教师搜索
+
+合作院校
+
+IBM认知学堂
+
+Cognitive Class
+
+
+万学教育集团
+
+Universal Education Group
+
+
+上海中医药大学
+
+Shanghai University of T.C.M
+
+
+上海交通大学
+
+Shanghai Jiao Tong University
+
+
+上海商学院
+
+Shanghai Business School
+
+
+上海对外经贸大学
+
+Shanghai University of International Business and Economics
+
+
+上海师范大学
+
+Shanghai Normal University
+
+
+上海戏剧学院
+
+Shanghai Theatre Academy
+
+
+上海海事大学
+
+Shanghai Maritime University
+
+
+上海立信会计学院
+
+Shanghai Lixin University of Commerce
+
+
+上海第二工业大学
+
+Shanghai Second Polytechnic University
+
+
+上海财经大学
+
+Shanghai University of Finance and Economics
+
+
+中国科学技术大学
+
+University of Science and Technology of China
+
+
+中国高校微信应用教育联盟
+
+China Collegiate Wechat Application Education Alliance
+
+
+云南财经大学
+
+Yunnan University of Finance and Economics
+
+
+云林科技大学
+
+Yunlin University of Science and Technology
+
+
+交大创业JIA
+
+JIA OF SJTU
+
+
+全国高校混合式教学设计创新大赛
+
+Blended Teaching Competition
+
+
+兰州大学
+
+Lanzhou University
+
+
+兰州理工大学
+
+Lanzhou University of Technology
+
+
+北京大学
+
+Peking University
+
+
+华东师范大学
+
+East China Normal University
+
+
+华为e学云
+
+e-Learning Cloud of Huawei
+
+
+华侨大学
+
+Huaqiao University Digital Curriculum Center Platform
+
+
+华北科技学院
+
+North China Institute of Science and Technology
+
+
+华南师范大学
+
+South China Normal University
+
+
+华南理工大学
+
+South China University of Technology
+
+
+华南理工大学软件学院
+
+South China University of Technology
+
+
+台北医学大学
+
+Taipei Medical University
+
+
+台湾宜兰大学
+
+Taiwan Ilan University
+
+
+合肥学院
+
+HEFEI UNIVERSITY
+
+
+同济大学
+
+Tongji University
+
+
+呼和浩特民族学院
+
+Huhhot University for Nationalities
+
+
+哈尔滨工业大学
+
+Harbin Institute of Technology
+
+
+哈尔滨工程大学
+
+Harbin Engineering University
+
+
+国家开放大学
+
+The Open University of China
+
+
+复旦大学
+
+Fudan University
+
+
+好干部在线
+
+School of Continuing Education SJTU
+
+
+宁夏大学
+
+NINGXIA University
+
+
+宁波大学
+
+Ningbo University
+
+
+安徽新华学院
+
+Anhui Xinhua University
+
+
+对外经济贸易大学
+
+University of International Business and Economics
+
+
+山东工艺美术学院
+
+Shandong University Of Art & Design
+
+
+常州大学
+
+Changzhou University
+
+
+广东工业大学
+
+Guangdong University Of Technology
+
+
+广州大学
+
+Guangzhou University
+
+
+成均馆大学
+
+Sungkyunkwan University
+
+
+新疆农业大学
+
+Xinjiang Agricultural University
+
+
+新竹交通大学
+
+Chiao Tung University
+
+
+新竹清华大学
+
+Xinzhu Tsing Hua University
+
+
+暨南大学
+
+JINAN University
+
+
+曲靖师范学院
+
+Qujing Normal University
+
+
+枣庄学院
+
+Zaozhuang University
+
+
+桃园中原大学
+
+Chung Yuan Christian University
+
+
+江苏大学
+
+Jiangsu University
+
+
+海南医学院
+
+Hainan Medical University
+
+
+海南大学
+
+Hainan University
+
+
+海德堡大学孔子学院
+
+konfuzius-institut-heidelberg
+
+
+淡江大学
+
+Tamkang University
+
+
+温州大学
+
+Wenzhou University
+
+
+牡丹江大学
+
+Mudanjiang University
+
+
+百度云智学院
+
+Baidu cloud school
+
+
+科技部中国21世纪议程管理中心
+
+China's Agenda21
+
+
+英特尔亚太研发有限公司
+
+Intel Asia-Pacific Research & Development Ltd
+
+
+西安交通大学
+
+Xi`an Jiaotong University
+
+
+西安理工大学
+
+Xi'an University of Technology
+
+
+郑州大学
+
+Zhengzhou University
+
+
+长江大学
+
+Yangtze University
+
+
+阿里云在线课程
+
+Ali Yun online course
+
+
+青海省高级人民法院
+
+qhfychinacourt
+
+
+香港中文大学
+
+The Chinese University of Hong Kong
+
+
+香港中文大学 & 墨尔本大学
+
+The Chinese University of Hong Kong & The University of Melbourne
+
+
+香港城市大学
+
+City University of Hong Kong
+
+
+黑龙江大学
+
+Heilongjiang University
+
+
+黑龙江工程学院
+
+Heilongjiang Institue Of Technogly
+
+
+ewant育网
+
+ewant courses
+
+
+上海工程技术大学
+
+Shanghai University Of Engineering Science
+
+
+上海应用技术大学
+
+Shanghai Institute of Technology
+
+
+上海政法学院
+
+Shanghai University of Political Science and Law
+
+
+上海科技大学
+
+ShanghaiTech University
+
+
+上海音乐学院
+
+Shanghai Conservatory of Music
+
+
+东北农业大学
+
+Northeast Agricultural University
+
+
+东北师范大学信息与软件工程学院
+
+School of Information and Software Engineering, Northeast Normal University
+
+
+东北石油大学
+
+NEPU
+
+
+东华大学
+
+Donghua University
+
+
+丝路商学院
+
+Silk Road Business School
+
+
+中国石油大学（华东）
+
+China University Of Petroleum
+
+
+云南中医学院
+
+Yunnan University of Traditional Chinese Medicine
+
+
+云南农业大学
+
+YUNNAN AGRICULTURAL UNIVERSITY
+
+
+云南财经大学中华职业学院
+
+Yunnan University of Finance and Economics
+
+
+仰恩大学
+
+Yang-En University
+
+
+北京语言大学
+
+Beijing Language & Culture University
+
+
+华东政法大学
+
+East China University of Political Science and Law
+
+
+华东理工大学
+
+East China University of Science and Technology
+
+
+南通大学
+
+Nantong University2
+
+
+合肥鼎真信息科技有限公司
+
+dingzhen
+
+
+呼伦贝尔学院
+
+Hulunbuir University
+
+
+哈尔滨工业大学（威海）
+
+Harbin Institute of Technology at Weihai
+
+
+哈尔滨石油学院
+
+Harbin Institute of Petroleum
+
+
+四川农业大学
+
+Sichuan Agricultural University
+
+
+大连交通大学
+
+Dalian Jiaotong University
+
+
+天津商业大学
+
+Tianjin University Of Commerce
+
+
+太原科技大学
+
+Taiyuan University of Science and Technology
+
+
+学在交大
+
+study at SJTU
+
+
+宁夏大学新华学院
+
+Xinhua College of Ningxia University
+
+
+安徽建筑大学
+
+Anhui Jianzhu University
+
+
+山西财经大学
+
+Shanxi University Of Finance And Economics
+
+
+广东理工学院
+
+guangdong polytechnic college
+
+
+广州中医药大学
+
+Guangzhou University of Chinese Medicine
+
+
+扬州大学
+
+Yangzhou University
+
+
+昆明医科大学
+
+Kunming Medical University
+
+
+江苏开放大学
+
+Jiangsu Open University
+
+
+浙江财经大学
+
+Zhejiang University of Finance & Economics
+
+
+湖南师范大学
+
+hunan normal university
+
+
+福州大学至诚学院
+
+Fuzhou University Zhicheng College
+
+
+贵州大学
+
+Guizhou University
+
+
+辽宁何氏医学院
+
+He University
+
+
+辽宁工程技术大学
+
+Liaoning Technical University
+
+
+重庆护理职业学院
+
+Chongqing Nursing Vocational College
+
+
+金陵科技学院
+
+JINLING INSTITUTE OF TECHNOLOGY
+
+
+长春大学
+
+changchun university
+
+
+长春工业大学
+
+Changchun University Of Technology
+
+
+陕西科技大学
+
+Shaanxi University of Science & Technology
+
+
+青岛理工大学
+
+qingdao university of technology
+
+
+黑龙江东方学院
+
+East University of Heilongjiang
+
+
+黑龙江外国语学院
+
+Heilongjiang International University
+
+
+齐齐哈尔大学
+
+qiqihar university
+
+
+新疆天山职业技术学院（本科）
+
+Xinjiang Tianshan Vocational&technical college
+
+
+贵州商学院
+
+GUIZHOU UNIVERSITY OF COMMERCE
+
+院校联盟
+
+ewant育网
+
+ewant
+
+
+江苏CNMOOC联盟
+
+jscmlm
+
+
+示范性软件学院联盟
+
+The Pilot Software Engineering Schools Association
+
+
+重庆大学城联盟
+
+Chongqing College Town
+
+
+黑龙江省优质在线课程联盟
+
+Open Quality Courses Alliance of Heilongjiang Colleages & University
+
+中国高水平大学慕课联盟官方网站
+English
+© 版权所有 2015 上海交通大学慕课研究院
+
+ 技术支持：江苏知途教育科技有限公司
