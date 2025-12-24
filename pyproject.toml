@@ -1,0 +1,16 @@
+[project]
+name = "python-prj"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "chardet>=5.2.0",
+    "ffmpeg>=1.4",
+    "jieba>=0.42.1",
+    "nltk>=3.9.1",
+    "openai-whisper>=20250625",
+    "openpyxl>=3.1.5",
+    "pandas>=2.0.3",
+    "setuptools>=75.3.2",
+]

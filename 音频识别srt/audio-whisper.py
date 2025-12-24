@@ -1,6 +1,8 @@
 # 音频识别字幕 导出srt文件
 import whisper
 import os
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning, module="torch")
 
 
 def convert(sec_num):
@@ -31,7 +33,7 @@ def identify(audio, srt):
             raise FileNotFoundError(f"Audio file not found: {audio}")
             
         print(f'正在识别: {audio}')
-        model = whisper.load_model("large-v2")
+        model = whisper.load_model("small.en")
         result = model.transcribe(audio, fp16=False)
         
         with open(srt, mode='w', encoding='utf-8') as f:
@@ -47,11 +49,15 @@ def identify(audio, srt):
 
 if __name__ == '__main__':
     # 音频文件夹路径
-    audio_folder = 'D:\\temp'
+    audio_folder = '/Users/jerik/tmp'
     file_list = os.listdir(audio_folder)
     for file in file_list:
-        audio_path = os.path.join(audio_folder, file)
-        srt_path = os.path.splitext(os.path.join(audio_folder, file))[0] + '.srt'
-        identify(audio_path, srt_path)
+        # 检查文件是否是 mp3 格式
+        if file.lower().endswith('.mp3'):
+            audio_path = os.path.join(audio_folder, file)
+            srt_path = os.path.splitext(os.path.join(audio_folder, file))[0] + '.srt'
+            identify(audio_path, srt_path)
+        else:
+            print(f"跳过非 mp3 文件: {file}")
 
     print('结束')
